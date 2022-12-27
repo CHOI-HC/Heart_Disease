@@ -1,2 +1,2 @@
-# Heart_Disease
-[개인R&amp;D] 심장병 예측
+# heart_disease
+머신러닝을 활용한 심장병 예측
